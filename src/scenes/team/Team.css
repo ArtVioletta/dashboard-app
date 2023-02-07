@@ -1,0 +1,7 @@
+.teamBox {
+  width: 60%;
+  margin: 0 auto;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+}

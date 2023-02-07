@@ -1,0 +1,13 @@
+.image-sideBar {
+  height: 100px;
+  width: 100px;
+  cursor: pointer;
+  border-radius: 50px;
+}
+
+.box-icon {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 15px;
+}
